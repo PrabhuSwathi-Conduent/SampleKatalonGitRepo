@@ -19,3 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('www.google.com')
 
+WebUI.navigateToUrl('https://www.google.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Google/a_Gmail'))
+
+WebUI.click(findTestObject('Object Repository/Page_Gmail Secure, AI-Powered Email for Eve_cdd15c/span_Create an account'))
+
+WebUI.click(findTestObject('Object Repository/Page_Gmail Secure, AI-Powered Email for Eve_cdd15c/a_For my personal use'))
+
