@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dummy-TC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e9a6601-c032-460b-8e4e-24c72cfc4382</testCaseGuid>
+</TestCaseEntity>
